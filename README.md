@@ -1,13 +1,14 @@
 # cascade-fountain
 
 ## Mission
-You have been hired by a children's aid society to put together a self-powered vehicle from used or easy to find parts that can be found anywhere in the world. They want to see a prototype and they want to make sure it will travel at least 2 meters and *carries a seated lego person passenger*. Once your project is complete they will give your product to less fortunate children.  Ideally your product will be easy to fix - so they can build and repair their own toys and develop some engineering skills in the process.
+You have been hired by a children's health organizatino to put together a cascading water fountain that holds a plant.  The cascade must have at least **2 levels (not including the pool) OR a PLANT WALL** -- in order to provide more humidity. The setup should not get the surrounding area wet.  The device should be attractive and should allow a person to grow a plant in a pot with earth - without clogging the pumps.
+
+Ideally your product is made from simple parts (electronic pumps are permitted) and will be easy to fix and clean.
 
 ## Technologies to Learn / Practice
-* **Stored Engineering** - how to store energy that can be used later
-* **Dynamic Engineering** - how to convert energy into movement
-* **Dynamics** - how the vehicle platform (structure) can easily move through air (or water) -- allowing the system to convert most of its stored engery into movement
-* **Low Friction Joints** - how to ensure the vehicle's moving parts move freely and easily to convert most of its stored engery into movement
+* **Static Joints (attaching 2 items to carry weight)** - how to store energy that can be used later
+* **Filtering (pump protection)** - how to convert energy into movement
+* **Electrical motors & power** - how the vehicle platform (structure) can easily move through air (or water) -- allowing the system to convert most of its stored engery into movement
 * **Kanban Workflow** -- organize and track ones project progress independently and when asking for help others understand the starting point
 * **Incremental Work** -- work in small adjustable units to build a project
 * **Web Communication** -- communicating and web technologies
