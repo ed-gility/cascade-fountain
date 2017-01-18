@@ -6,9 +6,9 @@ You have been hired by a children's health organizatino to put together a cascad
 Ideally your product is made from simple parts (electronic pumps are permitted) and will be easy to fix and clean.
 
 ## Technologies to Learn / Practice
-* **Static Joints (attaching 2 items to carry weight)** - how to store energy that can be used later
-* **Filtering (pump protection)** - how to convert energy into movement
-* **Electrical motors & power** - how the vehicle platform (structure) can easily move through air (or water) -- allowing the system to convert most of its stored engery into movement
+* **Structures & Static Joints (attaching 2 items to carry weight)** - how structures support heavy objects
+* **Flow (Fluids)** - fluids flow and airate (create humidity)
+* **Electrical motors & power** - how to control electrical motors
 * **Kanban Workflow** -- organize and track ones project progress independently and when asking for help others understand the starting point
 * **Incremental Work** -- work in small adjustable units to build a project
 * **Web Communication** -- communicating and web technologies
@@ -28,49 +28,46 @@ Ideally your product is made from simple parts (electronic pumps are permitted) 
 
 *(**If unsure - see the classroom example**)*
 
-### Research Self-Powered Toy Vehicles
+### Research
 At the end of this stage you should be able to sketch your idea and have ideas noted that won't be used (please use your idea books).
 
-1. Research 3 ways to create a vehicle platform *(plastic bottle, popsicle sticks, etc.)* - save links / document your findings
-2. Research 3 ways to have a self-powered mechanism *(fan, ballon, etc.)* - save links / document your findings
-3. Choose a vehicle platform
-4. Choose a power mechanism
+1. Research 3 examples of types of cascade fountains
+2. Research 3 ways to construct (build) a cascading fountain
+3. Choose a way to contain the structure
+4. Choose a way to place the pump (withoug ungliness)
 5. draw a rough sketch of your product (find a place to include your organization logo)
-6. show sketch to another group
+6. **DEMO** show sketch to another group
 
-### Build the Vehicle Platform
-It should move (roll, float, fly) freely at least two meters after a light push
+### Build the Structure
 
-1. Create the Chassis *(front, rear, seating for Lego person & windshield)*.
-2. Create the axels and wheels (assuming a rolling ground vehicle) -- *balast and keel for boats, wings and tail for fligth, etc.*
-3. Attach wheels (or the guidance system, keel, wings, etc)
-4. **Test** - Be sure the system glides two meters given only minimal thrust.
+1. Create the structure -- that allows the cascading to be created
+2. Create the containers (bowls, troughs, etc) and the pouring mechanism (how the water move to the next location)
+3. Attach the containers to the structure
+4. **Test** - Be sure the water flows as expected when poured in by hand
 5. **Demo** to other groups and get ideas for adjustments
 
-### Build on Self-Powered Movement
-At the end of this phase your vehicle should roll freely at least two meters without any human energy input (no push allowed).
+### Add the pump
+Be sure the pump doesn't make a mess (pump too hard)
 
-1. build propulsion system - Fan, Propellor, etc
-2. build energy transfer system - rubberband power, batter/motor, etc.
-3. Assemble and test that propulsion system delivers energy (including in the correct direction)
-4. Attach propulsion to vehicle & TEST
+1. install the pump
+2. hide wires, etc
+3. tune the pump strenght -- there are a variety of ways to do this - do some reasearch (google)
 5. **Demo** to other groups and get ideas for adjustments
 
 ### Finishing Touches
 1. Be sure your product is attractive
 2. Be sure your product has your logo on it
-3. Be sure your procuct has a windshield
-4. Be sure your product has a seated location (behind the windsheild) for a lego character.
+3. Optionally, include stones, a plant, etc for natural beauty
 
 ### Create a Product webpage (in your Organization website)
-1. copy the file **self-powered-vehicle.html** into your Organization's website
-2. attach a photo or video of your projects
-3. give a description of your project
+1. copy the file **cascade-fountain-product.html** into your Organization's website
+2. attach a photo or video of your product (& link the image to the page)
+3. give a description of your product
 4. link this new webpage into your **Products** section of your organiation's homepage **index.html**
 5. **Demo** this product page to other groups and get ideas for adjustments
 
 ### Create a Product blog (in your Organization website)
-1. copy the file **self-powered-vehicle-blog.html** into your organization's website
+1. copy the file **cascade-fountain-blog.html** into your organization's website
 2. write the **Product Fit** description
 3. Write the **Acknowledge** section to honor those who helped you
 4. Write the **Ideas to go further** section
